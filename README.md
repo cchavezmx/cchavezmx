@@ -3,13 +3,9 @@
 ## Soy un desarrollor web full stack
 ![Discord](https://img.shields.io/discord/718518515279069316?style=social&label=Discord&logo=discord)
 
-Mis principales habilidades son, el trabajo en equipo, la resolución de problemas y la adaptabilidad a los cambios. Me gusta aprender nuevas tecnologías y aplicarlas en mis proyectos.
+Me especializo en JavaScript (mi lenguaje favorito), y cuento con un sólido dominio de tecnologías clave como React, Node.js y Go. He contribuido de manera destacada en proyectos para la empresa de paquetería 99minutos y, además, soy Sensei en DevF, donde imparto clases y mentorías de JavaScript y React.
 
-Mi lenguaje favorito es JavaScript, pero también tengo conocimientos avanzados en HTML, CSS, React, Redux, Node.js, Git y GitHub.
-
-he Colaborando principalente en la empresa de paquetería <strong>99minutos</strong> y como Sensei en <strong>DevF</strong> donde doy clases y mentorías de JavaScript y React.
-
-Mi proposito es seguir aprendiendo y creciendo como desarrollador, para poder aportar soluciones a los problemas de la vida real y poder ayudar a cambiar la realidad de las personas, para que puedan conseguir su primer empleo como desarrollador.
+Mi objetivo principal es continuar mi crecimiento como desarrollador, trabajando en soluciones que aborden problemas del mundo real y ademas de poder ayudar a transformar la vida de las personas, para que puedan ingresar al mundo laboral como desarrolladores.
 
 
 ## Lenguajes y herramientas favoritas: 🔩🔩 
@@ -17,6 +13,8 @@ Mi proposito es seguir aprendiendo y creciendo como desarrollador, para poder ap
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
 - ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 - ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)
+
+- - -
 
 ## En este repositorio encontrarás:
 
